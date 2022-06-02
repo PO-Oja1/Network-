@@ -1,4 +1,4 @@
-#Shell script for factorial of a number using while loop
+# 2. Shell script for factorial of a number using while loop
 
 echo "Enter a number: "
 read num
@@ -11,4 +11,4 @@ do
   num=$((num - 1))      #num = num - 1
 done
 
-echo $fact  
+echo "Factorial is" $fact  

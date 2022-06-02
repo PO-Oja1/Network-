@@ -1,4 +1,4 @@
-#Shell script for largest of n numbers
+# 3. shell script to find the largest among the 3 given numbers
 
 echo "Enter 3 Numbers with Space in between: "
 read num1 num2 num3
