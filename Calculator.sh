@@ -18,6 +18,7 @@ echo "1. Addition"
 echo "2. Subtraction"
 echo "3. Multiplication"
 echo "4. Division"
+echo "============================"
 echo "Enter The Choice: "
 read choice
 
@@ -39,8 +40,8 @@ read decision
 decision=${decision,,}
 if [ $decision != "y" ]
 then 
+  echo "Thank you for using the Calculator"
   exit
 fi
-echo "Thank you for using this program"
 echo
 done
