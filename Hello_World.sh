@@ -1,4 +1,5 @@
-# 1. shell script program to display “HELLO WORLD”
+# 1. Program to display “HELLO WORLD”
+
 echo
 echo "Hello World"
 echo

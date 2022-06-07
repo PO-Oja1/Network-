@@ -1,3 +1,5 @@
+# OR logic program
+
 echo "Enter any number: "
 read n
 

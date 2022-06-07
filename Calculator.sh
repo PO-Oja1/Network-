@@ -1,4 +1,4 @@
-# 4. shell script program to develop a Calculator
+# 4. Program to develop a Calculator
 
 decision="y"
 

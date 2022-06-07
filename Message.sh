@@ -1,4 +1,4 @@
-#!/bin/sh  Comment
+#!/bin/sh  This is a comment
 
 echo "What is your name?"
 read PERSON

@@ -1,4 +1,4 @@
-# 2. Shell script for factorial of a number using while loop
+# 2. Factorial of a number using while loop
 
 echo "Enter a number: "
 read num

@@ -1,4 +1,4 @@
-# AND logic
+# AND logic program
 
 echo "Enter the username: "
 read username

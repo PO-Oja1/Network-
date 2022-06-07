@@ -1,4 +1,4 @@
-# 6. shell script to reverse the contents of a file 
+# 6. To reverse the contents of a file 
 # Execute as "bash Reverse.sh filename.extension"
 
 if [ $# -eq 1 ]
